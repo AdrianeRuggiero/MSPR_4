@@ -1,0 +1,9 @@
+[submodule "api-clients"]
+	path = api-clients
+	url = git@github.com:AdrianeRuggiero/MSPR_4_api-clients.git
+[submodule "api-products"]
+	path = api-products
+	url = git@github.com:AdrianeRuggiero/MSPR_4_api-products.git
+[submodule "api-orders"]
+	path = api-orders
+	url = git@github.com:AdrianeRuggiero/MSPR_4_api-orders.git
